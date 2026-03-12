@@ -1,0 +1,10 @@
+Nombre del alumno: Bryan Daniel
+
+Fecha: 10 de marzo de 2026
+
+Objetivo de la actividad:
+Practicar el uso de Git y GitHub creando ramas, realizando cambios y generando un Pull Request.
+
+¿Qué es un Pull Request?
+Un Pull Request es una solicitud para fusionar los cambios realizados en una rama hacia otra,
+normalmente hacia la rama principal del proyecto.
