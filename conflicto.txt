@@ -1,3 +1,3 @@
 Proyecto: Git Conflicts
-Responsable: Bryan Garcia
+Responsable: equipo B
 Version: 1.0
